@@ -1,0 +1,13 @@
+﻿  tucil2.cpp
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(21,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(76,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(76,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(119,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(135,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(136,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(137,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(149,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(206,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(317,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\farel\source\repos\tucil2\tucil2\tucil2.cpp(317,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  tucil2.vcxproj -> C:\Users\farel\source\repos\tucil2\x64\Debug\tucil2.exe
